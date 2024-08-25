@@ -1,0 +1,311 @@
+@media(max-width: 991.4px) {
+    .s- .nav-link {
+        padding: 10px 15px;
+        text-align: center;
+        background-color: #fff !important;
+        color: #000 !important;
+        width: 100%;
+    }
+
+    .feature-Img {
+        display: none;
+    }
+
+    .feature-Icon {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media(max-width: 995px) {
+    #wave {
+        display: none;
+    }
+}
+
+@media(max-width: 825.1px) {
+    .swiper-Card {
+        width: 85%;
+    }
+}
+
+@media(max-width: 760.1px) {
+    .feature-Icon {
+        width: 160px;
+        height: 70px;
+    }
+}
+
+@media(max-width: 563.1px) {
+    .swiper-Img img {
+        width: 400px !important;
+        height: 100px !important;
+    }
+}
+
+@media(max-width: 396.1px) {
+    .swiper-Card {
+        width: 80%;
+    }
+
+    .swiper-Img img {
+        width: 550px !important;
+        height: 90px !important;
+    }
+}
+
+@media (max-width: 375.1px) {
+    .feature-Icon {
+        width: 170px !important;
+        height: 60px !important;
+    }
+}
+
+@media(max-width: 775px) {
+    .full-Name textarea {
+        border: 1px solid #e4e4e4;
+        resize: none;
+        height: 30px;
+        width: 250px;
+        padding-left: 10px;
+        padding-top: 2px;
+        border-radius: 100px;
+    }
+
+    .email textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 250px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .subject textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 600px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .message textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 5px;
+        resize: none;
+        height: 150px;
+        width: 600px;
+        padding-left: 10px;
+        border-radius: 20px;
+    }
+
+    .contact-Btn button {
+        cursor: pointer;
+        padding: 10px 280px;
+        border-radius: 100px;
+        background: var(--background);
+    }
+}
+
+@media(max-width: 575px) {
+    .full-Name textarea {
+        border: 1px solid #e4e4e4;
+        resize: none;
+        height: 30px;
+        width: 200px;
+        padding-left: 10px;
+        padding-top: 2px;
+        border-radius: 100px;
+    }
+
+    .email textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 200px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .subject textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 450px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .message textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 5px;
+        resize: none;
+        height: 150px;
+        width: 450px;
+        padding-left: 10px;
+        border-radius: 20px;
+    }
+
+    .contact-Btn button {
+        cursor: pointer;
+        padding: 10px 200px;
+        border-radius: 100px;
+        background: var(--background);
+    }
+
+}
+
+@media(max-width: 470px) {
+    .full-Name textarea {
+        border: 1px solid #e4e4e4;
+        resize: none;
+        height: 30px;
+        width: 170px;
+        padding-left: 10px;
+        padding-top: 2px;
+        border-radius: 100px;
+    }
+
+    .email textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 170px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .subject textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 400px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .message textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 5px;
+        resize: none;
+        height: 150px;
+        width: 400px;
+        padding-left: 10px;
+        border-radius: 20px;
+    }
+
+    .contact-Btn button {
+        cursor: pointer;
+        padding: 10px 150px;
+        border-radius: 100px;
+        background: var(--background);
+    }
+
+}
+
+@media(max-width: 420px) {
+    .full-Name textarea {
+        border: 1px solid #e4e4e4;
+        resize: none;
+        height: 30px;
+        width: 150px;
+        padding-left: 10px;
+        padding-top: 2px;
+        border-radius: 100px;
+    }
+
+    .email textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 150px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .subject textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 350px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .message textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 5px;
+        resize: none;
+        height: 100px;
+        width: 350px;
+        padding-left: 10px;
+        border-radius: 20px;
+    }
+
+    .contact-Btn button {
+        cursor: pointer;
+        padding: 10px 150px;
+        border-radius: 100px;
+        background: var(--background);
+    }
+
+}
+
+@media(max-width: 375px) {
+    .full-Name textarea {
+        border: 1px solid #e4e4e4;
+        resize: none;
+        height: 30px;
+        width: 120px;
+        padding-left: 10px;
+        padding-top: 2px;
+        border-radius: 100px;
+    }
+
+    .email textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 120px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .subject textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 2px;
+        resize: none;
+        height: 30px;
+        width: 300px;
+        padding-left: 10px;
+        border-radius: 100px;
+    }
+
+    .message textarea {
+        border: 1px solid #e4e4e4;
+        padding-top: 5px;
+        resize: none;
+        height: 100px;
+        width: 300px;
+        padding-left: 10px;
+        border-radius: 20px;
+    }
+
+    .contact-Btn button {
+        cursor: pointer;
+        padding: 10px 100px;
+        border-radius: 100px;
+        background: var(--background);
+    }
+
+}
